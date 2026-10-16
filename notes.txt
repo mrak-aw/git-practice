@@ -8,3 +8,5 @@ git commit -m "message"
 "refactor: " - code refactoring
 
 git commit -m "feat: "
+
+git push - push in repo
