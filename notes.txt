@@ -1,0 +1,10 @@
+git init: init repo
+git add: add track a file
+
+git commit -m "message"
+"feat:" - add new feature
+"fix:" - bugs fixed
+"docs:" - documenation add
+"refactor: " - code refactoring
+
+git commit -m "feat: "
